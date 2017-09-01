@@ -8,7 +8,7 @@ circle = Circle(13,84,9)
 print("@1:",circle.x,circle.y,circle.radis)
 
 #Point封装
-from Demo import Shape
+from pythinking.demo import Shape
 
 a = Shape.Point()
 print(repr(a))
